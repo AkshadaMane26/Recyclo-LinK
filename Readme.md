@@ -36,7 +36,7 @@ WasteWise is a web-based platform designed to streamline waste management for so
 - **Notifications:** Email/SMS integration
 - **AI Integration:** Chatbot for waste management guidance
 
-## Sanpshots of UI
+## Snapshots of UI
 
 <body>
 <details>
