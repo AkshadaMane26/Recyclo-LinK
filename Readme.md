@@ -1,4 +1,4 @@
-# ♻️ Recyclo-LinK -- Smart Waste Management System ♻️
+# ♻️ Recyclo-LinK - Smart Waste Management System ♻️
 
 ## Introduction
 
