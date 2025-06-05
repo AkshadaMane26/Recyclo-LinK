@@ -1,8 +1,8 @@
-# ♻️ Recyclo-LinK - Smart Waste Management System ♻️
+# ♻️ Recyclo-LinK – Smart Recycling & Collection System ♻️
 
 ## Introduction
 
-WasteWise is a web-based platform designed to streamline waste management for societies by promoting sustainable waste disposal practices, optimizing waste collection schedules, and encouraging recycling through community engagement. The system integrates features like waste collection coordination, a marketplace for recyclable items, a reward system, and an intelligent notification system.
+Recyclo-LinK is a web-based platform designed to streamline waste management for societies by promoting sustainable waste disposal practices, optimizing waste collection schedules, and encouraging recycling through community engagement. The system integrates features like waste collection coordination, a marketplace for recyclable items, a reward system, and an intelligent notification system.
 
 ## Features
 
