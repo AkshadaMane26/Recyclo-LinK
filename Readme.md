@@ -71,7 +71,7 @@ WasteWise is a web-based platform designed to streamline waste management for so
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Harshada-Borse/Recyclo-LinK.git
+   git clone https://github.com/AkshadaMane26/Recyclo-LinK.git
    cd waste-management-wedsite
    ```
 2. Install dependencies:
