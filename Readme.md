@@ -29,7 +29,7 @@ WasteWise is a web-based platform designed to streamline waste management for so
 
 ## Tech Stack
 
-- **Frontend:** React.js, Tailwind CSS
+- **Frontend:** React.js
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
 - **Authentication:** JWT-based authentication
