@@ -1,4 +1,4 @@
-# ♻️ Recyclo-LinK – Smart Recycling & Collection System ♻️
+# ♻️ Recyclo-LinK – Smart Recycling & Collection System 
 
 ## Introduction
 
